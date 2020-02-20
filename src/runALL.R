@@ -50,4 +50,4 @@ gmpts.fit
 summary(gmpts.fit)
 
 
-
+dim(gmpts.fit)
