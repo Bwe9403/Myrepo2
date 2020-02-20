@@ -1,4 +1,4 @@
 
 pdf(file = 'coolplot.pdf')
-hist(mtcars$disp)
+a<-hist(mtcars$disp)
 dev.off()
