@@ -51,3 +51,5 @@ summary(gmpts.fit)
 
 
 dim(gmpts.fit)
+sum(gmpts)
+sum(gmpts$d2ship)
